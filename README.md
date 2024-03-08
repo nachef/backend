@@ -17,7 +17,3 @@ First, run the development server:
 ```bash
 # run development
 npm run dev
-
-## License
-
-This project is under the MIT license. See the [LICENSE]() for more information.
