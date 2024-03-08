@@ -1,18 +1,23 @@
-<h1>Back-end com dados a serem consumidos
+<p align="center">
+    <h1 align="center">Backend JSON</h1>
+  </a>
+</p>
 A simple JSON server.
-Getting Started
+
+## Getting Started
+
 Installation
 
+```bash
 $ npm install
+```
+
 First, run the development server:
 
+```bash
 # run development
 npm run dev
 
-# build production
-$ npm run build
+## License
 
-# run production
-$ npm run start
-License
-This project is under the MIT license. See the LICENSE for more information.</h1>
+This project is under the MIT license. See the [LICENSE]() for more information.
